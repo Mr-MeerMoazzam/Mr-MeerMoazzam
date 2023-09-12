@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mr-MeerMoazzam
-- 👀 I’m interested in AI model building 
-- 🌱 I’m currently learning AI,ML,DL
+- 👀 I’m interested in AI Model Building, Computer Vision, AI Model Deployment, NLP, 
+- 🌱 I’m currently working as ML Engineer
 - 💞️ I’m looking to collaborate on AI model building
 - 📫 How to reach me meermoazzam41@gmail.com
 
