@@ -25,13 +25,13 @@ I'm an innovative and results-driven AI Engineer with over 3 years of expertise 
 
 ## 🏅 Featured Projects
 
-### [Eva - Personal AI Assistant](https://github.com/ai-harry/Eva-Personal-AI-Assistant)
+### [Eva - Personal AI Assistant]
 A highly interactive and intelligent AI assistant designed to manage daily tasks, provide information, and enhance productivity.
 
-### [AI CLOCK](https://github.com/username/AICLOCK)
+### [AI CLOCK]
 A touchless employee attendance system that increases accuracy and efficiency of attendance tracking.
 
-### [Cardiac Arrhythmia Detection](https://github.com/username/CardiacArrhythmiaDetection)
+### [Cardiac Arrhythmia Detection]
 A predictive model achieving 88% accuracy in detecting cardiac arrhythmia, aiding in early diagnosis and improving patient outcomes.
 
 ## 📝 Publications
@@ -42,10 +42,10 @@ A predictive model achieving 88% accuracy in detecting cardiac arrhythmia, aidin
 ## 📫 How to reach me
 
 - **Email:** [meermoazzam41@gmail.com](mailto:meermoazzam41@gmail.com)
-- **LinkedIn:** [linkedin.com/in/username](https://www.linkedin.com/in/username)
-- **LeetCode:** [leetcode.com/username](https://leetcode.com/username)
-- **HackerRank:** [hackerrank.com/username](https://www.hackerrank.com/username)
-- **ORCID:** [orcid.org/username](https://orcid.org/username)
+- **LinkedIn:** [Moazzam Ali](www.linkedin.com/in/meermoazzam)
+- **LeetCode:** [Moazzam Ali](https://leetcode.com/u/meermoazzam/)
+- **HackerRank:** [Moazzam Ali](https://www.hackerrank.com/profile/meermoazzam)
+- **ORCID:** [Moazzam Ali](https://orcid.org/my-orcid?orcid=0009-0001-0918-4462)
 
 
 ## 🌐 Socials:
