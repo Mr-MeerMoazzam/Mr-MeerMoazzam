@@ -1,6 +1,61 @@
-# 💫 About Me:
-# 👋 Hi, I'm Moazzam Ali<br><br>**AI Engineer | Machine Learning Enthusiast | Open Source Contributor**<br><br>---<br><br>![Profile views](https://komarev.com/ghpvc/?username=mr-meermoazzam&color=blueviolet) <br><br>## 🚀 About Me<br><br>I'm an innovative and results-driven AI Engineer with over 3 years of expertise in Machine Learning, Deep Learning, Computer Vision, and NLP. I have directed 25+ projects, boosting process efficiency by 40% and generating $200,000 in revenue. My passion lies in leveragingAC state-of-the-art AI solutions to solve complex problems and drive technological advancements.<br><br>- 🏆 Gold Medalist in Bachelor of Artificial Intelligence, Air University<br>- 🌟 Top Rated Freelancer on Upwork<br>- 🧠 Continuous learner and AI enthusiast<br><br>## 🔧 Technologies & Tools<br><br>**Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-Learn  <br>**Computer Vision:** OpenCV, YOLO, CNN, Semantic Segmentation  <br>**NLP:** spaCy, NLTK, Transformers, Sentiment Analysis  <br>**API Development:** Flask, FastAPI, Django REST Framework  <br>**Cloud Deployment:** AWS, Azure  <br>**Edge Deployment:** NVIDIA Jetson Nano, Xavier  <br>**Languages:** Python, JavaScript, C++, SQL  <br>**Development Tools:** Docker, Git, GitHub<br>
+# 👋 Hi, I'm Moazzam Ali
 
+**AI Engineer | Machine Learning Enthusiast | Open Source Contributor**
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=meermoazzam41&color=blueviolet) 
+
+## 🚀 About Me
+
+I'm an innovative and results-driven AI Engineer with over 3 years of expertise in Machine Learning, Deep Learning, Computer Vision, and NLP. I have directed 25+ projects, boosting process efficiency by 40% and generating $200,000 in revenue. My passion lies in leveraging state-of-the-art AI solutions to solve complex problems and drive technological advancements.
+
+- 🏆 Gold Medalist in Bachelor of Artificial Intelligence, Air University
+- 🌟 Top Rated Freelancer on Upwork
+- 🧠 Continuous learner and AI enthusiast
+
+## 🔧 Technologies & Tools
+
+**Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-Learn  
+**Computer Vision:** OpenCV, YOLO, CNN, Semantic Segmentation  
+**NLP:** spaCy, NLTK, Transformers, Sentiment Analysis  
+**API Development:** Flask, FastAPI, Django REST Framework  
+**Cloud Deployment:** AWS, Azure  
+**Edge Deployment:** NVIDIA Jetson Nano, Xavier  
+**Languages:** Python, JavaScript, C++, SQL  
+**Development Tools:** Docker, Git, GitHub
+
+## 📈 GitHub Stats
+
+![Moazzam's GitHub stats](https://github-readme-stats.vercel.app/api?username=meermoazzam41&show_icons=true&theme=radical)
+
+## 🏅 Featured Projects
+
+### [Eva - Personal AI Assistant](https://github.com/ai-harry/Eva-Personal-AI-Assistant)
+A highly interactive and intelligent AI assistant designed to manage daily tasks, provide information, and enhance productivity.
+
+### [AI CLOCK](https://github.com/username/AICLOCK)
+A touchless employee attendance system that increases accuracy and efficiency of attendance tracking.
+
+### [Cardiac Arrhythmia Detection](https://github.com/username/CardiacArrhythmiaDetection)
+A predictive model achieving 88% accuracy in detecting cardiac arrhythmia, aiding in early diagnosis and improving patient outcomes.
+
+## 📝 Publications
+
+- **Enhancing Human Activity Recognition through Integrated Multimodal Analysis**  
+  Published a paper detailing the integration of multiple modalities for improving human activity recognition.
+
+## 📫 How to reach me
+
+- **Email:** [meermoazzam41@gmail.com](mailto:meermoazzam41@gmail.com)
+- **LinkedIn:** [linkedin.com/in/username](https://www.linkedin.com/in/username)
+- **LeetCode:** [leetcode.com/username](https://leetcode.com/username)
+- **HackerRank:** [hackerrank.com/username](https://www.hackerrank.com/username)
+- **ORCID:** [orcid.org/username](https://orcid.org/username)
+
+---
+
+⭐️ From [meermoazzam41](https://github.com/meermoazzam41)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/meermoazzam11) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meer_moazzam11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meermoazzam) 
