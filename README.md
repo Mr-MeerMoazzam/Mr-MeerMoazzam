@@ -25,13 +25,13 @@ I'm an innovative and results-driven AI Engineer with over 3 years of expertise 
 
 ## 🏅 Featured Projects
 
-### [Eva - Personal AI Assistant]
+### [Eva - Personal AI Assistant]()
 A highly interactive and intelligent AI assistant designed to manage daily tasks, provide information, and enhance productivity.
 
-### [AI CLOCK]
+### [AI CLOCK]()
 A touchless employee attendance system that increases accuracy and efficiency of attendance tracking.
 
-### [Cardiac Arrhythmia Detection]
+### [Cardiac Arrhythmia Detection]()
 A predictive model achieving 88% accuracy in detecting cardiac arrhythmia, aiding in early diagnosis and improving patient outcomes.
 
 ## 📝 Publications
