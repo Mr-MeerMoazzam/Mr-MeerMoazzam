@@ -2,37 +2,51 @@
 
 **AI Engineer | Machine Learning Enthusiast | Open Source Contributor**
 
-
 ## 🚀 About Me
 
-I'm an innovative and results-driven AI Engineer with over 3 years of expertise in Machine Learning, Deep Learning, Computer Vision, and NLP. I have directed 25+ projects, boosting process efficiency by 40% and generating $200,000 in revenue. My passion lies in leveraging state-of-the-art AI solutions to solve complex problems and drive technological advancements.
+I am an innovative and results-driven **AI Engineer** with over 4 years of experience in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Natural Language Processing** (NLP). Throughout my career, I have directed over 25 impactful projects, boosting process efficiency by 40% and generating $200,000 in revenue. My passion lies in developing cutting-edge AI solutions, leveraging state-of-the-art technologies to solve complex problems, and driving technological advancements.
 
-- 🏆 Gold Medalist in Bachelor of Artificial Intelligence, Air University
-- 🌟 Top Rated Freelancer on Upwork
-- 🧠 Continuous learner and AI enthusiast
+I have a proven track record in building scalable AI models, optimizing system performance, and deploying them across cloud and edge platforms. I've worked on diverse AI applications ranging from **Generative AI**, **Multi-Agent Systems**, **LLMs**, to **Real-Time Object Detection** and **PPE Recognition**, and have led teams to successfully deliver AI-driven products that exceed client expectations.
+
+- 🏆 **Gold Medalist** in Bachelor of Artificial Intelligence from **Air University**  
+- 🌟 **Top Rated Freelancer** on **Upwork** with 50+ projects completed  
+- 🧠 **Continuous Learner** and **AI Enthusiast**  
 
 ## 🔧 Technologies & Tools
 
-**Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-Learn  
-**Computer Vision:** OpenCV, YOLO, CNN, Semantic Segmentation  
-**NLP:** spaCy, NLTK, Transformers, Sentiment Analysis  
+**Machine Learning:** TensorFlow, PyTorch, Keras, Scikit-Learn, Time Series Forecasting  
+**Deep Learning:** CNNs, RNNs, LSTMs, GANs, Transformers  
+**Computer Vision:** OpenCV, YOLO, Semantic Segmentation, Pose Estimation, Real-Time Object Detection  
+**Natural Language Processing:** spaCy, NLTK, Transformers, Sentiment Analysis, Text Classification, Information Retrieval  
 **API Development:** Flask, FastAPI, Django REST Framework  
-**Cloud Deployment:** AWS, Azure  
+**Cloud Deployment:** AWS (EC2, Sagemaker, Lambda), Azure (Cognitive Services, Machine Learning)  
 **Edge Deployment:** NVIDIA Jetson Nano, Xavier  
-**Languages:** Python, JavaScript, C++, SQL  
-**Development Tools:** Docker, Git, GitHub
-
+**Languages:** Python (Proficient), JavaScript, C++, SQL  
+**Development Tools:** Docker, Git, GitHub, CI/CD
 
 ## 🏅 Featured Projects
 
-### [Eva - Personal AI Assistant]()
-A highly interactive and intelligent AI assistant designed to manage daily tasks, provide information, and enhance productivity.
+### [AI-Driven Fake News Detection](#)
+A cutting-edge AI model built using NLP and deep learning to automatically detect fake news and misinformation online by analyzing content credibility and its sources. This project utilizes Transformer models for enhanced accuracy and scalability.
 
-### [AI CLOCK]()
-A touchless employee attendance system that increases accuracy and efficiency of attendance tracking.
+### [Generative AI Art Creation](#)
+Developed a generative adversarial network (GAN) for creating original artwork based on input descriptions. This project uses advanced style transfer and image synthesis to produce high-quality and realistic art pieces.
 
-### [Cardiac Arrhythmia Detection]()
-A predictive model achieving 88% accuracy in detecting cardiac arrhythmia, aiding in early diagnosis and improving patient outcomes.
+### [Eva - Personal AI Assistant](#)
+A highly interactive and intelligent AI assistant designed to manage daily tasks, provide information, and enhance productivity using natural language understanding and personalized AI agents.
+
+### [AI CLOCK](#)
+A touchless employee attendance system that uses computer vision and machine learning to increase accuracy and efficiency in attendance tracking, reducing human error and improving workflow efficiency.
+
+### [Cardiac Arrhythmia Detection](#)
+A predictive machine learning model that achieves 88% accuracy in detecting cardiac arrhythmia from ECG data, aiding in early diagnosis and improving patient outcomes through automated medical assistance.
+
+### [PPE Detection System](#)
+Real-time computer vision models deployed to detect Personal Protective Equipment (PPE) in industrial environments, reducing safety incidents by 40% by ensuring compliance with safety protocols.
+
+### [Generative AI Solutions for Enterprise](#)
+Architected customized generative AI models (RAG Systems) that improved information retrieval and task-specific performance for enterprise clients, leading to a 42% increase in data accuracy and client satisfaction.
+
 
 ## 📝 Publications
 
