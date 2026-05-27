@@ -69,18 +69,6 @@ I leverage cutting-edge AI tools daily to operate at 10x engineering velocity:
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Mr-MeerMoazzam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## 🔝 Top Contributed Repos
-
-![](https://github-contributor-stats.vercel.app/api?username=Mr-MeerMoazzam&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meermoazzam)
