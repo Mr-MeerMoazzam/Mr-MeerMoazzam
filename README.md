@@ -69,18 +69,6 @@ I leverage cutting-edge AI tools daily to operate at 10x engineering velocity:
 
 ---
 
-## 💼 Experience
-
-| Role | Company | Period |
-|---|---|---|
-| AI Research Scientist | Nua Security | Oct 2025 – Present |
-| AI Consultant | Evren AI | Aug 2022 – Present |
-| LLM Trainer & GenAI Engineer | Turing (Apple, Meta, Anthropic) | Jan 2024 – Jul 2025 |
-| Machine Learning Engineer | DiveDeepAI | Jun 2021 – Jul 2022 |
-| Machine Learning Engineer | ToktoAI | Jan 2020 – May 2021 |
-
----
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Mr-MeerMoazzam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
