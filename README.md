@@ -1,77 +1,67 @@
-# 👋 Hi, I'm Moazzam Ali
+# Hi, I'm Meer 👋
 
-**Expert AI Engineer | Senior AI Consultant | Agentic Infrastructure | Autonomous Cybersecurity | LLMs & Multi-Agent Systems**
+**Founder & CEO of [Evren AI](https://evrenai.com)** · Engineer at heart · I architect and build products that scale: backend, cloud and AI.
 
----
-
-## 🚀 About Me
-
-I'm an AI Research Scientist and Senior AI Engineer with **6+ years** of experience building production-grade AI systems at the intersection of **agentic infrastructure**, **autonomous cybersecurity**, and **generative AI**.
-
-At **Nua Security**, I architect the proprietary infrastructure that powers autonomous pentest agents — including the AI Gateway, scalable agent deployment platforms on GCP Kubernetes, multi-tenant VPN connectivity with zero-trust isolation, and human-in-the-loop evaluation pipelines.
-
-At **Evren AI**, I lead enterprise AI consulting across **retail, healthcare, fintech, and construction** — delivering RAG systems, multi-agent workflows, and LLM copilots that generate measurable business impact.
-
-Previously contributed to LLM training pipelines for **Apple, Meta, and Anthropic** at Turing.
-
-- 🏆 **Gold Medalist** — Ranked 1st of 150+ graduates, Bachelor of AI, Air University
-- 🏅 **Prime Minister's National Academic Excellence Award**
-- 📄 **Published Researcher** — 30+ citations on multimodal human activity recognition
-- 💡 **60+ enterprise AI projects** delivered across industries
+> Most products don't fail because of the idea. They fail because of how they were built.
 
 ---
 
-## 🔬 What I'm Building Right Now
+### About me
 
-```
-Nua Security — Autonomous Cybersecurity AI
-├── Proprietary Agentic Infrastructure Harness
-├── Nua AI Gateway (agent orchestration, LLM routing, MCP tool management)
-├── Agent Deployment Platform on GCP Kubernetes (GKE)
-├── Nua Sandbox (isolated execution environment for pentest agents)
-├── Multi-Tenant VPN Layer (IPsec/IKEv2, Zero-Trust, Cloud HA VPN)
-└── Human-in-the-Loop Evaluation Pipelines
-```
+I started as an engineer, and I still architect and write the systems we ship.
+
+What began as me taking on hard problems alone is now **Evren AI**: a 20+ person product and AI engineering team across Pakistan and the US that has taken **50+ products from idea to production** for founders and enterprises. We run on two principles, **speed and quality**, and we're now building our own solutions alongside client work.
+
+Every week our team runs internal workshops on new models, methods and tools, so what we ship stays current with the state of the art.
 
 ---
 
-## 🧠 Core Expertise
+### What I build
 
-| Area | Technologies |
+- **Product & platform architecture:** Python/FastAPI backends, APIs and data models designed to scale without rewrites
+- **Agentic AI systems:** LangGraph multi-agent orchestration, tool calling, RAG and hybrid search, LLM routing
+- **Cloud & infrastructure:** Kubernetes on GCP, Azure and AWS, with Terraform, Helm and CI/CD
+- **Quality by default:** evals (RAGAS) and observability (LangSmith, Langfuse) wired in before launch, not after
+
+---
+
+### Selected work (through Evren AI)
+
+- ⚡ Transaction intelligence systems running across **100+ financial institutions**
+- 🤖 Multi-agent AI assistant embedded inside a live enterprise workforce-management SaaS
+- 🧩 Shared AI agent platform for a global logistics enterprise, replacing one-off builds
+- 🌱 Supply-chain intelligence platform for cocoa exporters: satellite and drone monitoring, crop-disease computer vision, deforestation compliance
+- 🛡️ LLM-based phishing detection for a fintech platform
+
+---
+
+### Tech stack
+
+| Area | Tools |
 |---|---|
-| **Agentic Systems** | LangGraph, CrewAI, AutoGen, LangChain, Custom Harness Design |
-| **Cybersecurity AI** | Zero-Trust Architecture, IPsec/IKEv2, Adversarial AI, SOC Automation |
-| **LLMs & GenAI** | Fine-tuning (LoRA, QLoRA, PEFT), RAG, RLHF, Hybrid Search |
-| **Cloud & Infra** | GCP (GKE, Vertex AI, Cloud HA VPN), AWS (SageMaker, Lambda), Azure (OpenAI, AKS) |
-| **MLOps & DevOps** | Kubernetes, Docker, Helm, Terraform, ArgoCD, GitHub Actions, CI/CD |
-| **ML & CV** | PyTorch, TensorFlow, YOLOv8, TensorRT, OpenCV, Edge AI |
-| **NLP** | Transformers, spaCy, Semantic Search, Contextual Embeddings |
-| **Databases** | PostgreSQL, MongoDB, Pinecone, FAISS, Weaviate, Redis, Elasticsearch |
+| Backend | Python, FastAPI, Node.js, PostgreSQL, MongoDB, Redis |
+| AI & agents | LangGraph, LangChain, CrewAI, OpenAI, Azure OpenAI, Vertex AI, RAG, fine-tuning (LoRA/QLoRA) |
+| Cloud & infra | GCP (GKE), Azure (AKS, APIM), AWS, Kubernetes, Docker, Helm, Terraform, ArgoCD |
+| Data & search | Pinecone, FAISS, Weaviate, Elasticsearch |
+| Quality | RAGAS, LangSmith, Langfuse, GitHub Actions |
+| Computer vision | PyTorch, YOLOv8, OpenCV |
 
 ---
 
-## 🛠️ AI-Augmented Workflow
+### Background
 
-I leverage cutting-edge AI tools daily to operate at 10x engineering velocity:
-
-**Cursor** · **Claude Code** · **Antigravity** · **GitHub Copilot** · **Perplexity** · **NotebookLM**
-
----
-
-## 📄 Publications
-
-**Enhancing Human Activity Recognition through Integrated Multimodal Analysis: A Focus on RGB Imaging, Skeletal Tracking, and Pose Estimation**
-
-- Novel multimodal framework achieving **37% improvement** in activity recognition accuracy
-- Fusion algorithms reducing computational complexity by **45%** for real-time edge applications
-- Cited by **30+ subsequent papers** on Google Scholar
-- Implemented in industrial healthcare monitoring and security systems
+- 🏅 Gold Medalist, ranked 1st in BS Artificial Intelligence
+- 🎖️ Prime Minister's National Academic Excellence Award
+- 🧠 RLHF and LLM training work for frontier models used by Apple, Meta and Anthropic
+- 📄 Published researcher, 30+ citations: *Enhancing Human Activity Recognition through Integrated Multimodal Analysis* (MDPI) · [ORCID](https://orcid.org/0009-0001-0918-4462)
 
 ---
 
-## 📫 Connect With Me
+### Let's build together
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meermoazzam)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-0918-4462)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Mr-MeerMoazzam)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:meermoazzam41@gmail.com)
+Founders, product teams and partners: I'm always open to a conversation.
+
+[![Website](https://img.shields.io/badge/Evren_AI-evrenai.com-1B2440?style=flat)](https://evrenai.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-meermoazzam-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/meermoazzam/)
+[![Book a call](https://img.shields.io/badge/Book_a_30--min_call-Calendly-F99E91?style=flat)](CALENDLY_LINK_HERE)
+[![Email](https://img.shields.io/badge/Email-meermoazzam41@gmail.com-D14836?style=flat&logo=gmail)](mailto:meermoazzam41@gmail.com)
